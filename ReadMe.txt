@@ -1,0 +1,1 @@
+Input a date and receive the billboard top 100 of that date as a playlist on Spotify.
